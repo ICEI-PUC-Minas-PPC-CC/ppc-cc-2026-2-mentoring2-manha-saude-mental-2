@@ -29,12 +29,11 @@ O grupo de trabalho pode também fazer uso de questionários, entrevistas e dado
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação ou se beneficiarão da ação extensionista, indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes/beneficiados ou quais serão os papéis dos usuários na aplicação/ação extensionista. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+O público-alvo é composto por adolescentes e jovens adultos que apresentam insatisfação com a própria aparência e dificuldades em aceitar o próprio corpo. O que é agravado pelo uso indevido ou intensivo das redes sociais que é associado à insatisfação corporal, baixa autoestima, comportamentos de risco e transtornos alimentares, fora os casos de comparação com padrões de beleza impostos pela sociedade. Tudo isso gera uma onda de isolamento social e a falta de exercício físico no dia a dia, aumentando a ansiedade e os sintomas depressivos.
+Também pode ser levado em conta, pessoas que possuem uma rotina que consume muito tempo de seu dia e que com isso, não resta tempo para realizar atividades físicas, aumentando o sentimento de comparação a sua própria aparência ligando esses fatores ao sedentarismo.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual.
+> **Fontes usadas**:
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Vincente-Benito I, Ramírez-Durán MDV. Influence of Social Media Use on Body Image and Well-Being Among Adolescents and Young Adults: A Systematic Review. J Psychosoc Nurs Ment Health Serv. 2023 Dec;61(12):11-18. doi: 10.3928/02793695-20230524-02. Epub 2023 Jun 2. PMID: 37256748.
+
+McCarthy PA, Morina N. Exploring the association of social comparison with depression and anxiety: A systematic review and meta-analysis. Clin Psychol Psychother. 2020 Sep;27(5):640-671. doi: 10.1002/cpp.2452. Epub 2020 Apr 13. PMID: 32222022.
