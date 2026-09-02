@@ -29,7 +29,7 @@ O grupo de trabalho pode também fazer uso de questionários, entrevistas e dado
 
 ## Público-Alvo
 
-O público-alvo é composto por adolescentes e jovens adultos que apresentam insatisfação com a própria aparência e dificuldades em aceitar o próprio corpo. O que é agravado pelo uso indevido ou intensivo das redes sociais que é associado à insatisfação corporal, baixa autoestima, comportamentos de risco e transtornos alimentares, fora os casos de comparação com padrões de beleza impostos pela sociedade. Tudo isso gera uma onda de isolamento social e a falta de exercício físico no dia a dia, aumentando a ansiedade e os sintomas depressivos.
+O público-alvo é composto por pessoas que apresentam insatisfação com a própria aparência e dificuldades em aceitar o próprio corpo. O que é agravado pelo uso indevido ou intensivo das redes sociais que é associado à insatisfação corporal, baixa autoestima, comportamentos de risco e transtornos alimentares, fora os casos de comparação com padrões de beleza impostos pela sociedade. Tudo isso gera uma onda de isolamento social e a falta de exercício físico no dia a dia, aumentando a ansiedade e os sintomas depressivos.
 Também pode ser levado em conta, pessoas que possuem uma rotina que consume muito tempo de seu dia e que com isso, não resta tempo para realizar atividades físicas, aumentando o sentimento de comparação a sua própria aparência ligando esses fatores ao sedentarismo.
 
 > **Fontes usadas**:
