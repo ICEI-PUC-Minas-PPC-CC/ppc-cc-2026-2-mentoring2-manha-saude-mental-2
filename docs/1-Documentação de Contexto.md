@@ -10,14 +10,20 @@ https://www.amesuamente.org.br/blog/depressao-afeta-seu-dia-a-dia-como-melhorar-
 https://www.who.int/news-room/fact-sheets/detail/depression
 
 ## Objetivos
+🎯 Objetivo geral
+Promover o autocuidado e o bem-estar emocional de pessoas que enfrentam sentimentos negativos relacionados à própria imagem corporal, oferecendo apoio, informações e pequenas atividades que possam ser incorporadas à rotina.
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
+ 🎯 Objetivos específicos
+1) Reduzir a autocrítica relacionada à aparência:estimulando uma relação mais saudável com o próprio corpo.
+ Esse objetivo busca ajudar a pessoa a diminuir pensamentos excessivamente negativos sobre o próprio corpo e aparência. Muitas vezes, a pessoa pode se comparar com outras, enxergar apenas aquilo que considera um “defeito” e acabar criando uma visão muito negativa de si mesma.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
+ 2)Estimular pequenas atividades positivas:como caminhar, ouvir música, conversar com alguém ou realizar um hobby.
+Esse objetivo está relacionado à ideia de que, quando uma pessoa está passando por um período de baixa motivação, atividades muito grandes podem parecer difíceis ou impossíveis.
+Por isso, em vez de propor algo como “faça uma hora de exercício todos os dias”, a solução poderia sugerir ações pequenas e alcançáveis.
+
 > **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
+Fonte: American Psychological Association – Self-compassion and women’s experience of social media content portraying body positivity and appearance ideals
+> https://www.who.int/news-room/fact-sheets/detail/depression?utm_
 ## Justificativa
 
 Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
