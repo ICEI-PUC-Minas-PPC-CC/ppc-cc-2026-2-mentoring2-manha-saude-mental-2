@@ -1,8 +1,8 @@
 # TÍTULO DO PROJETO
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`Disciplina: MENTORING - SOCIEDADE DIGITAL `
+`2026 - Semestre 02`
 
 ## Integrantes
 
@@ -16,7 +16,8 @@
 
 ## Professores
 
-- Luciana e Udo
+- Luciana de Nardin
+- Udo Fritzke Junior
 
 # Documentação
 
