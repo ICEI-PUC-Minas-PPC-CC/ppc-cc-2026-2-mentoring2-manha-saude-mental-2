@@ -6,10 +6,13 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Christian Mateus
+- Diogo Swerts
+- Gabriel Guedes
+- Giovana Bomfim
+- Mariana de Jesus
+- Vinicius Silvestre
+- Yago Abrão 
 
 ## Professor
 
