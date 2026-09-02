@@ -14,9 +14,9 @@
 - Vinicius Silvestre
 - Yago Abrão 
 
-## Professor
+## Professores
 
-- Mestre Yoda
+- Luciana e Udo
 
 # Documentação
 
