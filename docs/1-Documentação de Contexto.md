@@ -3,14 +3,11 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
+Muitas pessoas que sofrem com depressão, ansiedade e/ou outros problemas de saúde mental, possuem uma grande dificuldade em manter uma rotina saudável, onde até as tarefas mais simples do dia a dia parecem exigir um esforço fora do comum. Segundo dados da Organização Mundial de Saúde(OMS), divulgados em 2025, cerca de 4% da população(aproximadamente 322 milhões de pessoas) possuem depressão, sendo cerca de 1.5 vezes mais comum em mulheres em relação aos homens. A depressão afeta a qualidade de vida de diversas formas, como falta de energia e motivação, perda de interesse em atividades antes consideradas prazerosas, alterações no apetite e peso corporal, insônia, sentimentos de culpa, isolamento social, e no pior dos casos, suícidio.
 
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Fontes:
+https://www.amesuamente.org.br/blog/depressao-afeta-seu-dia-a-dia-como-melhorar-esses-efeitos/
+https://www.who.int/news-room/fact-sheets/detail/depression
 
 ## Objetivos
 
