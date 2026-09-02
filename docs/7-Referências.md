@@ -10,8 +10,8 @@ Exemplos de referências:
 
 [2] CORMEN, Thomas H. et al. Algoritmos: teoria e prática. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996.
 
-> **Links Úteis**:
-> - [Normas ABNT PUC Minas](http://portal.pucminas.br/biblioteca/documentos/ABNT-Formatar-indicar-citacoes-e-referencia-las.pdf)
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+
+[1] PAZ, Alessandra ; BRANDÃO, Maíra. Como a depressão afeta o seu dia-a-dia?. Ame Sua Mente, 2023. Disponível em: https://www.amesuamente.org.br/blog/depressao-afeta-seu-dia-a-dia-como-melhorar-esses-efeitos/. Acesso em: 02 set. 2026. 
+
+[2] Depressive disorder (depression). World Health Organization, 2025. Disponível em: https://www.who.int/news-room/fact-sheets/detail/depression. Acesso em: 02 set. 2026. 
 
