@@ -8,7 +8,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 1.
 |**Lucas Ferreira**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/79eb49bd-ea51-4aac-9bf4-2495285410d3" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/79eb49bd-ea51-4aac-9bf4-2495285410d3" />
 |**Idade:** 24 anos. **Naturalidade:** Curitiba, Paraná, Brasil. **Ocupação:** Designer gráfico freelancer.       |**Atribuições:** Produzir conteúdo visual para redes sociais. 
 |**Motivações:** Conquistar maior independência financeira.  |**Frustações:** Sentir dificuldade em manter uma rotina equilibrada. Ter receio de ser julgado pela aparência ou pelo trabalho e sentir que seus esforços nem sempre produzem os resultados que espera.   |**Hobbies, história:** Busca melhorar sua autoestima e sua relação com a própria aparência, pois atualmente se sente insatisfeito consigo mesmo e emocionalmente sobrecarregado, procurando formas de cuidar do seu bem-estar e alcançar seus objetivos pessoais e profissionais.
 
@@ -16,8 +16,9 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 |**Renata Martins**|           |                             | 
 |-------------------|-----------|-----------------------------|
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4a715094-3ce4-4ccf-93f3-89e3f796b906" />
-|**Idade:** 41 anos. **Naturalidade:** Florianópolis, Santa Catarina. **Ocupação:** Gerente administrativa.       |**Atribuições:** Coordena equipes, organiza processos administrativos, acompanha resultados e gerencia prazos e demandas. 
-|**Motivações:** Busca ter mais qualidade de vida, melhorar sua autoestima e equilibrar a vida profissional e pessoal.  |**Frustações:** Sente-se sobrecarregada pela rotina, insatisfeita com a própria aparência e frustrada com a dificuldade de reservar tempo para si.   |**Hobbies, história:** Busca conciliar suas responsabilidades profissionais e pessoais, pois atualmente se sente sobrecarregada e insatisfeita consigo mesma, procurando maneiras de melhorar seu bem-estar e sua autoestima.
+|**Idade:** 24 anos. **Naturalidade:** Curitiba, Paraná, Brasil. **Ocupação:** Designer gráfico freelancer.       |**Atribuições:** Produzir conteúdo visual para redes sociais. 
+|**Motivações:** Conquistar maior independência financeira.  |**Frustações:** Sentir dificuldade em manter uma rotina equilibrada. Ter receio de ser julgado pela aparência ou pelo trabalho e sentir que seus esforços nem sempre produzem os resultados que espera.   |**Hobbies, história:** Busca melhorar sua autoestima e sua relação com a própria aparência, pois atualmente se sente insatisfeito consigo mesmo e emocionalmente sobrecarregado, procurando formas de cuidar do seu bem-estar e alcançar seus objetivos pessoais e profissionais.
+
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
