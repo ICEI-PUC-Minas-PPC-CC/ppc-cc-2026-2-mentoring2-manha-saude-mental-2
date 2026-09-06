@@ -34,22 +34,16 @@ Para selecionar as imagens de suas personas, utilize o site: https://this-person
 
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
-Exemplo:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
-
-
+|Ana Clara Mendes | Receber sugestões de pequenas atividades que sejam possíveis de realizar mesmo nos dias difíceis. | Conseguir iniciar suas atividades sem se sentir pressionada ou culpada por não cumprir grandes metas.|
+|Ana Clara Mendes |Ter uma rotina adaptável ao meu estado do dia, sem metas fixas ou cobranças.|Avançar no meu próprio ritmo e reconhecer pequenas conquistas como progresso.|
+|Ana Clara Mendes | Receber lembretes para atividades básicas, como levantar, beber água, tomar banho e escovar os dentes.| Conseguir transformar pequenas intenções em ações e retomar gradualmente minha rotina.|
+|Maria Lucia Almeida|Receber sugestões de atividades simples relacionadas ao autocuidado e à rotina.|Conseguir retomar aos poucos atividades que faziam parte da minha vida.|
+| Maria Lúcia Almeida | Ter atividades sem metas rígidas ou cobranças | Reconstruir minha rotina respeitando meu próprio ritmo. |
+| Maria Lúcia Almeida | Receber incentivo para realizar pequenas atividades diárias | Voltar a participar da minha própria vida aos poucos. |
+| Rafael Augusto Ferreira | Receber pequenas tarefas para manter minha rotina | Evitar perder completamente o controle nos períodos difíceis. |
+| Rafael Augusto Ferreira | Receber lembretes sutis sobre minha rotina | Perceber sinais de desorganização antes que se agravem. |
+| Rafael Augusto Ferreira | Ter apoio sem julgamentos ou cobranças | Lidar melhor com os dias ruins sem me sentir um fracasso. |
 
