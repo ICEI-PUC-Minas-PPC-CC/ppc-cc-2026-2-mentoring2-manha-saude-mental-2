@@ -3,23 +3,21 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Muitas pessoas que sofrem com depressão, ansiedade e/ou outros problemas de saúde mental, possuem uma grande dificuldade em manter uma rotina saudável, onde até as tarefas mais simples do dia a dia parecem exigir um esforço fora do comum. Segundo dados da Organização Mundial de Saúde(OMS), divulgados em 2025, cerca de 4% da população(aproximadamente 322 milhões de pessoas) possuem depressão, sendo cerca de 1.5 vezes mais comum em mulheres em relação aos homens. A depressão afeta a qualidade de vida de diversas formas, como falta de energia e motivação, perda de interesse em atividades antes consideradas prazerosas, alterações no apetite e peso corporal, insônia, sentimentos de culpa, isolamento social, e no pior dos casos, suícidio.
+Muitas pessoas que sofrem com depressão, ansiedade e/ou outros problemas de saúde mental, possuem uma grande dificuldade em manter uma rotina saudável, onde até as tarefas mais simples do dia a dia parecem exigir um esforço fora do comum. A depressão afeta a qualidade de vida de diversas formas, como falta de energia e motivação, perda de interesse em atividades antes consideradas prazerosas, alterações no apetite e peso corporal, insônia, sentimentos de culpa, isolamento social, e no pior dos casos, suícidio.
 
 Fontes:
 https://www.amesuamente.org.br/blog/depressao-afeta-seu-dia-a-dia-como-melhorar-esses-efeitos/
-https://www.who.int/news-room/fact-sheets/detail/depression
 
 ## Objetivos
 🎯 Objetivo geral
 Promover o autocuidado e o bem-estar emocional de pessoas que enfrentam sentimentos negativos relacionados à própria imagem corporal, oferecendo apoio, informações e pequenas atividades que possam ser incorporadas à rotina.
 
- 🎯 Objetivos específicos
+🎯 Objetivos específicos
 1) Reduzir a autocrítica relacionada à aparência:estimulando uma relação mais saudável com o próprio corpo.
- Esse objetivo busca ajudar a pessoa a diminuir pensamentos excessivamente negativos sobre o próprio corpo e aparência. Muitas vezes, a pessoa pode se comparar com outras, enxergar apenas aquilo que considera um “defeito” e acabar criando uma visão muito negativa de si mesma.
+Esse objetivo busca ajudar a pessoa a diminuir pensamentos excessivamente negativos sobre o próprio corpo e aparência. Muitas vezes, a pessoa pode se comparar com outras, enxergar apenas aquilo que considera um “defeito” e acabar criando uma visão muito negativa de si mesma.
 
- 2)Estimular pequenas atividades positivas:como caminhar, ouvir música, conversar com alguém ou realizar um hobby.
-Esse objetivo está relacionado à ideia de que, quando uma pessoa está passando por um período de baixa motivação, atividades muito grandes podem parecer difíceis ou impossíveis.
-Por isso, em vez de propor algo como “faça uma hora de exercício todos os dias”, a solução poderia sugerir ações pequenas e alcançáveis.
+2) Estimular pequenas atividades positivas:como caminhar, ouvir música, conversar com alguém ou realizar um hobby.
+Esse objetivo está relacionado à ideia de que, quando uma pessoa está passando por um período de baixa motivação, atividades muito grandes podem parecer difíceis ou impossíveis. Por isso, em vez de propor algo como “faça uma hora de exercício todos os dias”, a solução poderia sugerir ações pequenas e alcançáveis.
 
 > **Links Úteis**:
 Fonte: American Psychological Association – Self-compassion and women’s experience of social media content portraying body positivity and appearance ideals
