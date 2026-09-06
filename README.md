@@ -1,8 +1,8 @@
-# TÍTULO DO PROJETO : MoviMente
+# MoviMente
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: MENTORING - SOCIEDADE DIGITAL `
-`2026 - Semestre 02`
+`2026 - 2`
 
 ## Integrantes
 
