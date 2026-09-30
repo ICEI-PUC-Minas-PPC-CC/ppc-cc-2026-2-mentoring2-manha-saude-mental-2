@@ -33,9 +33,9 @@
 
 # Formulário
 
-https://docs.google.com/forms/d/e/1FAIpQLSc8z8MX6v3viU_rIrPc94KGo50mxJ40uCjFr9qIOXwi7NG2iw/viewform?usp=preview
+https://forms.gle/7CroUqRWYXAVZ7pi7
 
-# Código
+# Código]
 
 <li><a href="src/README.md"> Código Fonte</a></li>
 
