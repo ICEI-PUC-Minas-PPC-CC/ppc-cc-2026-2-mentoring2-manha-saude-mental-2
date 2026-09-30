@@ -1,15 +1,14 @@
 # Introdução
 
-A saúde mental se tornou uma das questões mais urgentes da sociedade atual, afetando milhões de pessoas em todo o mundo. Entre os diversos fatores que impactam o bem-estar emocional, a relação conflituosa com a própria imagem corporal se destaca como um problema crescente, intensificado pela exposição constante a padrões de beleza irrealistas e pela comparação social promovida pelas redes sociais.
+A saúde mental se tornou uma das questões mais urgentes da sociedade atual, afetando milhões de pessoas em todo o mundo. Entre os diversos fatores que impactam o bem-estar emocional, os hábitos do dia a dia, como alimentação, sono, atividade física e convívio social, desempenham um papel fundamental, tanto na prevenção quanto na recuperação de quadros de sofrimento psicológico.
 
-Pessoas que sofrem de depressão, ansiedade e/ou outros problemas de saúde mental possuem dificuldade em manter hábitos saudáveis em seu cotidiano. Tarefas simples podem se tornar desafiadoras diante da falta de energia, motivação e autoestima, o que gera um ciclo de isolamento social, autocríticas e sedentarismo que agrava ainda mais o sofrimento emocional.
+Pessoas que sofrem de depressão, ansiedade e/ou outros problemas de saúde mental geralmente possuem dificuldade em manter hábitos saudáveis em seu cotidiano. Tarefas simples como se alimentar bem, dormir em horários regulares ou tomar banho, podem se tornar desafiadoras diante da falta de energia, motivação e autoestima, o que gera um ciclo de isolamento social, autocríticas e sedentarismo que agrava ainda mais o sofrimento emocional.
 
-Diante disso, esse projeto propõe uma solução completamente digital voltada ao autocuidado e ao bem-estar emocional, com foco em pessoas que enfrentam sentimentos negativos em relação à própria imagem corporal. A ideia é um aplicativo para dispositivos móveis simplificado e acolhedor que incentiva o usuário a realizar tarefas do dia a dia, por meio de recompensas simbólicas, como em um jogo digital.
+Diante disso, esse projeto propõe uma solução completamente digital voltada ao autocuidado e ao bem-estar emocional, com foco em pessoas que enfrentam dificuldades em sua rotina. A ideia é um aplicativo para dispositivos móveis simplificado e acolhedor que incentiva o usuário a realizar tarefas do dia a dia, por meio de recompensas simbólicas, como em um jogo digital.
 
-Além disso, o projeto está alinhado aos **Objetivos de Desenvolvimento Sustentável (ODS)** da Agenda 20230 da ONU, destacando-se:
+Além disso, o projeto está alinhado aos **Objetivos de Desenvolvimento Sustentável (ODS)** da Agenda 20230 da ONU, destacando-se principalmente:
 
-- **ODS 3 - Saúde e Bem-Estar:** ao promover ações de cuidado com a saúde mental, contribuindo principalmente para a meta 3.4, que trata de reduzir mortes prematuras por doenças não transmissíveis e da promoção da saúde mental e bem-estar.
-- **ODS 5 - Igualdade de Gênero:** uma vez que a insatisfação corporal atinge majoritariamente mulheres e meninas, o projeto contribui para o enfrentamento de padrões que reforçam desigualdade de gênero [[1]](7-Referências.md).
+- **ODS 3 - Saúde e Bem-Estar:** ao promover ações de cuidado com a saúde mental, contribuindo principalmente para a meta 3.4, que trata de reduzir mortes prematuras por doenças não transmissíveis e da promoção da saúde mental e bem-estar.[[1]](7-Referências.md).
 
 ## Problema
 Muitas pessoas que sofrem com depressão, ansiedade e/ou outros problemas de saúde mental, possuem uma grande dificuldade em manter uma rotina saudável, onde até as tarefas mais simples do dia a dia parecem exigir um esforço fora do comum. A depressão afeta a qualidade de vida de diversas formas, como falta de energia e motivação, perda de interesse em atividades antes consideradas prazerosas, alterações no apetite e peso corporal, insônia, sentimentos de culpa, isolamento social, e no pior dos casos, suícidio [[2]](7-Referências.md).
