@@ -11,7 +11,8 @@ Além disso, o projeto está alinhado aos **Objetivos de Desenvolvimento Sustent
 - **ODS 3 - Saúde e Bem-Estar:** ao promover ações de cuidado com a saúde mental, contribuindo principalmente para a meta 3.4, que trata de reduzir mortes prematuras por doenças não transmissíveis e da promoção da saúde mental e bem-estar.[[1]](7-Referências.md).
 
 ## Problema
-Muitas pessoas que sofrem com depressão, ansiedade e/ou outros problemas de saúde mental, possuem uma grande dificuldade em manter uma rotina saudável, onde até as tarefas mais simples do dia a dia parecem exigir um esforço fora do comum. A depressão afeta a qualidade de vida de diversas formas, como falta de energia e motivação, perda de interesse em atividades antes consideradas prazerosas, alterações no apetite e peso corporal, insônia, sentimentos de culpa, isolamento social, e no pior dos casos, suícidio [[2]](7-Referências.md).
+Muitas pessoas que sofrem com depressão, ansiedade e/ou outros problemas de saúde mental, possuem uma grande dificuldade em manter uma rotina saudável, onde até as tarefas mais simples do dia a dia parecem exigir um esforço fora do comum. A depressão afeta a qualidade de vida de diversas formas, como falta de energia e motivação, perda de interesse em atividades antes consideradas prazerosas, alterações no apetite e peso corporal, insônia, sentimentos de culpa, isolamento social, alta carga de estresse e no pior dos casos, suícidio.
+Essa dificuldade pode contribuir no isolamento social, sedentarismo e abandono dos autocuidado, afetando mais o bem-estar e a qualidade de vida dessas pessoas. Dessa forma, tem em vista o problema de como ajudar a incentivar na realização dessas atividades de forma simples, acessível e acolhedora, sem deixar que essa fonte de o autocuidado vire mais uma fonte de pressão para quem já enfrenta dificuldades emocionais.[[2]](7-Referências.md).
 
 ## Objetivos
 
