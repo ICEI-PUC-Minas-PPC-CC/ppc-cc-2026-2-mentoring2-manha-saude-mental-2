@@ -16,17 +16,24 @@ Essa dificuldade pode contribuir no isolamento social, sedentarismo e abandono d
 
 ## Objetivos
 
-### Objetivo geral
+Objetivo geral
+Promover reflexões sobre a imagem corporal e incentivar o autocuidado e o bem-estar emocional de pessoas que relatam desconforto com a própria aparência, oferecendo informações confiáveis, orientações práticas e pequenas atividades que possam ser incorporadas à rotina de forma simples e gradual.
 
-Promover o autocuidado e o bem-estar emocional de pessoas que enfrentam sentimentos negativos relacionados à própria imagem corporal, oferecendo apoio, informações e pequenas atividades que possam ser incorporadas à rotina.
+O projeto não pretende substituir acompanhamento profissional nem garantir resultados psicológicos. Seu papel é servir como um apoio complementar, acessível e acolhedor, que informa, estimula a reflexão e sugere ações possíveis no dia a dia.
 
-### Objetivos específicos
+Objetivos específicos
+1) Promover reflexões sobre a relação com o próprio corpo e a aparência: por meio de conteúdos informativos que incentivem uma relação mais saudável com a própria imagem.
+Esse objetivo busca oferecer textos curtos, perguntas norteadoras e exemplos que ajudem a pessoa a refletir sobre hábitos comuns, como se comparar com outras pessoas, focar apenas naquilo que considera um "defeito" ou avaliar o próprio valor a partir da aparência. A intenção é que ela perceba como esses hábitos podem influenciar a forma como enxerga a si mesma, sem cobrança e no seu próprio ritmo.
 
-1) Reduzir a autocrítica relacionada à aparência:estimulando uma relação mais saudável com o próprio corpo.
-Esse objetivo busca ajudar a pessoa a diminuir pensamentos excessivamente negativos sobre o próprio corpo e aparência. Muitas vezes, a pessoa pode se comparar com outras, enxergar apenas aquilo que considera um “defeito” e acabar criando uma visão muito negativa de si mesma.
+2) Incentivar pequenas atividades positivas: como caminhar, ouvir música, conversar com alguém ou realizar um hobby.
+Esse objetivo parte da ideia de que, em períodos de baixa motivação, atividades muito grandes podem parecer difíceis ou impossíveis. Por isso, em vez de propor algo como "faça uma hora de exercício todos os dias", a solução sugere ações pequenas e alcançáveis, que podem ser escolhidas conforme o interesse e a disponibilidade de cada pessoa [3].
 
-2) Estimular pequenas atividades positivas:como caminhar, ouvir música, conversar com alguém ou realizar um hobby.
-Esse objetivo está relacionado à ideia de que, quando uma pessoa está passando por um período de baixa motivação, atividades muito grandes podem parecer difíceis ou impossíveis. Por isso, em vez de propor algo como “faça uma hora de exercício todos os dias”, a solução poderia sugerir ações pequenas e alcançáveis [[3]](7-Referências.md).
+3) Estimular o registro de sentimentos e atividades realizadas: por meio de recursos simples de acompanhamento dentro do aplicativo.
+Esse objetivo busca incentivar a pessoa a anotar como se sentiu e quais atividades realizou, para que ela possa perceber seus próprios hábitos e conquistas ao longo do tempo. O registro é de uso pessoal e serve como apoio à autorreflexão, sem função de avaliação ou diagnóstico.
+
+4) Informar sobre sinais de alerta e orientar sobre quando buscar apoio profissional: por meio de conteúdos claros e de indicação de canais de ajuda.
+Esse objetivo reconhece que o aplicativo tem limites. Por isso, ele busca informar a pessoa sobre situações em que o sofrimento pode exigir acompanhamento de profissionais de saúde mental, orientando-a a procurar esse apoio quando necessário.
+
 
 ## Justificativa
 
