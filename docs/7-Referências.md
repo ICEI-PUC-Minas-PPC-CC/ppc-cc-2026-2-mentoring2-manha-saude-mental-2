@@ -18,9 +18,13 @@
 
 [9] RIVOLI, F. M. S. et al. One-Year Changes in Depressive Symptoms and Cognitive Function Among Brazilian Older Adults Attending Primary Care. Preprints, 2025.
 
-[10] SAFAROVA, A. Depression and Anxiety Disorders: A Global Mental Health Problem of the 21st Century. 2025.
+[10] HABITICA. Habitica: Gamify Your Tasks. Versão para Android. Google Play Store, 2026. Disponível em: https://play.google.com/store/apps/details?id=com.habitrpg.android.habitica. Acesso em: 30 set. 2026.
 
-[11] Vincente-Benito I, Ramírez-Durán MDV. Influence of Social Media Use on Body Image and Well-Being Among Adolescents and Young Adults: A Systematic Review. J Psychosoc Nurs Ment Health Serv. 2023 Dec;61(12):11-18. doi: 10.3928/02793695-20230524-02. Epub 2023 Jun 2. PMID: 37256748.
+[11] NOTION LABS INC. Notion - notes, docs, tasks. Versão para Android. Google Play Store, 2026. Disponível em: https://play.google.com/store/apps/details?id=notion.id. Acesso em: 30 set. 2026.
 
-[12] McCarthy PA, Morina N. Exploring the association of social comparison with depression and anxiety: A systematic review and meta-analysis. Clin Psychol Psychother. 2020 Sep;27(5):640-671. doi: 10.1002/cpp.2452. Epub 2020 Apr 13. PMID: 32222022.
+[12] THE FABULOUS. Fabulous: Rotina e Hábitos. Versão para Android. Google Play Store, 2026. Disponível em: https://play.google.com/store/apps/details?id=co.thefabulous.app. Acesso em: 30 set. 2026.
+
+[13] Vincente-Benito I, Ramírez-Durán MDV. Influence of Social Media Use on Body Image and Well-Being Among Adolescents and Young Adults: A Systematic Review. J Psychosoc Nurs Ment Health Serv. 2023 Dec;61(12):11-18. doi: 10.3928/02793695-20230524-02. Epub 2023 Jun 2. PMID: 37256748.
+
+[14] McCarthy PA, Morina N. Exploring the association of social comparison with depression and anxiety: A systematic review and meta-analysis. Clin Psychol Psychother. 2020 Sep;27(5):640-671. doi: 10.1002/cpp.2452. Epub 2020 Apr 13. PMID: 32222022.
 
