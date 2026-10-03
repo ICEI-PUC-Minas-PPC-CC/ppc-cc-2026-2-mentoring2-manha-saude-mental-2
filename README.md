@@ -35,7 +35,6 @@
 
 https://forms.gle/7CroUqRWYXAVZ7pi7
 
-# Código]
+# Código
 
 <li><a href="src/README.md"> Código Fonte</a></li>
-
