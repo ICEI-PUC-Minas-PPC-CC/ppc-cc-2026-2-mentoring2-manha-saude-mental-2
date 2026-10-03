@@ -36,46 +36,24 @@ Esse objetivo reconhece que o aplicativo tem limites. Por isso, ele busca inform
 
 
 ## Justificativa
+A relevância de abordar o bem-estar emocional e a rotina do indivíduo é devido a dimensão com que o sofrimento psíquico afeta a vida cotidiana. Dados da Organização Mundial da Saúde apontam que a depressão atinge cerca de 4% da população global, afetando aproximadamente 322 milhões de pessoas [[3]](7-Referências.md). No cenário brasileiro, a situação é igualmente preocupante, com taxas expressivas de ansiedade e relatos recorrentes de sintomas depressivos que comprometem o funcionamento diário dos indivíduos em diferentes contextos de sua vida [[4]](7-Referências.md), [[5]](7-Referências.md), [[6]](7-Referências.md).
 
-### Fundamentação Teórica e Dimensão Epidemiológica do Problema
+O impacto dessas condições contribui para a perda de energia e isolamento social, que podem desgastar a autopercepção e alimentar uma cobrança excessiva. Essa dinâmica de autocrítica frequente contribui para o aumento do desconforto emocional e pode paralisar as pessoas diante de tarefas simples do dia a dia[[7]](7-Referências.md).
 
-A relevância de intervir na saúde mental apoia-se na alarmante dimensão epidemiológica que os transtornos psíquicos e o sofrimento emocional atingiram na população. A **Organização Mundial da Saúde** [[3]](7-Referências.md) estima que cerca de **4% da população global** (aproximadamente 322 milhões de pessoas) vivencia a depressão, apresentando uma prevalência cerca de 1,5 vez maior entre mulheres. 
+Portanto, a definição dos objetivos propostos pelo projeto busca oferecer uma resposta a essas dificuldade por meio de estratégias simples e viáveis.
+Ao propor conteúdos e perguntas reflexivas sobre a relação com a autoimagem, o projeto busca oferecer um espaço de conscientização. A intenção é auxiliar o usuário a reconhecer pensamentos de comparação e autocrítica, estimulando uma visão mais equilibrada de si mesmo, sem criar expectativas irreais de transformação pessoal imediata [[7]](7-Referências.md). Além disso, a opção por sugerir pequenas tarefas diárias apoia-se na percepção de que metas complexas podem ser desmotivadoras para quem já enfrenta fadiga ou desgaste emocional [[6]](7-Referências.md), [[8]](7-Referências.md). Ao incentivar ações graduais e acessíveis (como ouvir uma música, fazer um breve registro ou realizar um passeio), busca-se oferecer estímulos simples que ajudem a quebrar a sensação de imobilidade, respeitando o ritmo de cada pessoa e promovendo uma sensação progressiva de realização [[9]](7-Referências.md).
 
-No Brasil, o cenário é igualmente crítico: o país apresenta taxas de ansiedade estimadas em **9,3%** [[4]](7-Referências.md), chegando a índices entre **30% e 41,9%** para sintomas depressivos e ansiosos moderados a severos na população em geral [[5]](7-Referências.md), [[6]](7-Referências.md).
+### O Uso de Aplicativo e Soluções Existentes
+Ao analisar ferramentas de gestão de hábitos e rotinas disponíveis no mercado, os relatos de usuários em plataformas oficiais como a Google Play Store revelam lacunas importantes:
 
-O declínio da saúde mental manifesta-se através de falta de energia, isolamento social, anhedonia e, de forma cada vez mais proeminente, na deterioração da **autoimagem e da autopercepção corporal**. A constante exposição a padrões estéticos irrealistas e a comparação social (especialmente em ambientes digitais) potencializa pensamentos de autocrítica severa, exacerbando quadros de ansiedade e ideação depressiva na vida diária [[7]](7-Referências.md).
+1) Habitica: propõe gamificação da rotina no estilo RPG para motivar a execução de tarefas diárias. No entanto, avaliações de usuários destacam que o aplicativo possui "uma interface confusa e pouco intuitiva, com funcionalidades que só pude descobrir depois de muito tempo de uso" ou "é muito complicado de mexer e configurar" [[10]](7-Referências.md), o que podem gerar entraves para quem busca algo simples ou enfrenta momentes de fadiga mental.
+2) Notion: se destaca como uma plataforma versátil para organização pessoal e acadêmica. Contudo, exige um aprendizado consideravelmente longo com usuários relatando ser "famoso canhão para matar formiga" [[11]](7-Referências.md). Além disso, ressaltam que "usá-lo no celular não é nada funcional". Para pessoas com sintomas de ansiedade ou depressão, a exigência de configurar estruturas do zero pode gerar mais frustração do que suporte.
+3) Fabulous: utiliza conceitos de psicologia comportamental e sugestões para guiar a construção de rotinas. Alguns usuários criticam o excesso de estimulos visuais, relatando que "em vez de ser algo mais minimalista e clean, cansa o cérebro com excesso de estímulos", e a falta de flexibilidade como "ser obrigado a fazer hábitos básicos durante dias pra poder desbloquear as próximas etapas, pra mim, é péssimo" [[12]](7-Referências.md). 
 
-### Razões para a Escolha dos Objetivos Específicos
+Por fim, a escolha pelo desenvolvimento de uma aplicativo justifica-se por seu potencial de alcance e facilidade de acesso, permitindo que a pessoa consulte orientações e registre suas percepções em um ambiente acolhedor. O projeto busca preencher uma lacuna existente ao oferecer uma interface leve, simples e acessível, focada na construção gradual de hábitos e no apoio emocional, livre de cobranças por desempenho ou produtividade rígidos.
 
-A definição dos objetivos específicos do projeto apoia-se em evidências da psicologia comportamental e cognitiva para quebrar o ciclo de sofrimento psíquico:
-
-#### Objetivo 1: Redução da Autocrítica e Promoção da Autoaceitação Corporal
-
-> **Motivação:** Pensamentos excessivamente negativos sobre o próprio corpo geram um estado constante de vigilância e inadequação, atuando como gatilho direto para a ansiedade social e o isolamento.
-
-Fundamentando-se em abordagens de autocompaixão (*self-compassion*), trabalhar a redução da autocrítica associada à aparência é indispensável para restaurar a autoeficácia e a autovalorização, permitindo que a pessoa desenvolva uma relação mais neutra e saudável consigo mesma [[7]](7-Referências.md).
-
-#### Objetivo 2: Estímulo a Pequenas Atividades Positivas e Rotina
-
-> **Motivação:** A disrupção do cotidiano e a perda de motivação explicam até **32% da variação** nos níveis de estresse e fadiga em momentos de vulnerabilidade mental [[6]](7-Referências.md), [[8]](7-Referências.md).
-
-Propor metas grandes ou rotinas rígidas para alguém em sofrimento emocional gera paralisação e frustração. Por isso, embasando-se no princípio da **Ativação Comportamental (AC)**, a escolha por sugerir microintervenções diárias (como caminhadas breves, ouvir música ou pequenos *hobbies*) justifica-se pela capacidade de gerar reforço positivo gradual, reduzindo a sobrecarga cognitiva e devolvendo o sentimento de controle sem exigir um esforço desmedido [[9]](7-Referências.md).
-
-### O Uso de Aplicativos Móveis (mHealth) e Soluções Existentes
-
-A escolha por um aplicativo móvel justifica-se pela necessidade de oferecer uma ferramenta de baixo custo, discreta e continuamente acessível. Estudos indicam que intervenções baseadas em *smartphones* para saúde mental possuem eficácia comprovada na redução de sintomas ansiosos e depressivos, apresentando tamanhos de efeito de $g = 0,40$ a $0,74$ e alta aceitabilidade pelos usuários [[5]](7-Referências.md), [[10]](7-Referências.md).
-
-Apesar da existência de diversas ferramentas no mercado, observa-se uma lacuna evidente:
-
-| Aplicação | Abordagem Atual | Limitação Encontrada |
-| :--- | :--- | :--- |
-| **Fabulous** | Rotinas rígidas e hábitos diários. | Alto custo de assinatura e baixa acessibilidade. |
-| **Habitica** | Gamificação em formato de RPG. | Poluição visual e mecânicas que podem gerar ansiedade. |
-| **Notion** | Gestão de tarefas e produtividade. | Alta curva de aprendizado e foco em performance/cobrança. |
-
-O projeto justifica-se, portanto, ao propor um ecossistema digital simplificado e acolhedor que combine **reorganização de hábitos leves com o cuidado com a autoimagem corporal**, mantendo-se livre de pressões por produtividade corporativa ou padrões estéticos.
 
 ## Público-Alvo
 
 O público-alvo é composto por pessoas que apresentam ansiedade ou sintomas depressivos. A ansiedade e os sintomas depressivos apresentam uma relação na qual as duas agravam os pensamentos excessivos de forma negativa, o que pode levar pessoas a evitar situações sociais ou atividades físicas, ocasionando em um isolamento social. Todos esses casos geram impactos negativos no dia a dia dessas pessoas mudando o comportamento emocional, social e físico além de interferir no bem-estar e na qualidade de vida do afetado.
-Também pode ser levado em conta, pessoas que possuem uma rotina que consume muito tempo de seu dia e que com isso, aumentando as demandas do dia a dia, não restando tempo o suficiente para realizar atividades físicas agravando uma onda de estresse e sobrecarga e deixando uma menor quantidade de tempo para realização de atividades prazerosas e até mesmo podendo desregular o sono.  [[11]](7-Referências.md), [[12]](7-Referências.md).
+Também pode ser levado em conta, pessoas que possuem uma rotina que consume muito tempo de seu dia e que com isso, aumentando as demandas do dia a dia, não restando tempo o suficiente para realizar atividades físicas agravando uma onda de estresse e sobrecarga e deixando uma menor quantidade de tempo para realização de atividades prazerosas e até mesmo podendo desregular o sono.  [[13]](7-Referências.md), [[14]](7-Referências.md).
