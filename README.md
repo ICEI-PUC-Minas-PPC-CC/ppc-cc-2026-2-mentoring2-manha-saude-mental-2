@@ -33,6 +33,8 @@
 
 # Formulário
 
+<img src="./docs/img/bannerFormulario.png" width="256" height="384"/>
+
 https://forms.gle/7CroUqRWYXAVZ7pi7
 
 # Código
