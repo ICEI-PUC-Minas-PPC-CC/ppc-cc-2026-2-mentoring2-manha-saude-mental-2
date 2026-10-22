@@ -31,12 +31,6 @@
 | ETAPA 7   | Preenchimento dos formulários referentes a prática extensionista no sistema APC |
 | ETAPA 8   | Atualização do portfólio |
 
-# Formulário
-
-<img src="./docs/img/bannerFormulario.png" width="256" height="384"/>
-
-https://forms.gle/7CroUqRWYXAVZ7pi7
-
 # Código
 
 <li><a href="src/README.md"> Código Fonte</a></li>
