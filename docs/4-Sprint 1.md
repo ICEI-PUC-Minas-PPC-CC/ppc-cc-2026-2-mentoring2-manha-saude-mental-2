@@ -312,3 +312,14 @@ A amostra é pequena (47 pessoas) e concentrada em estudantes de Computação, o
 -**Lembretes gentis**: permitir o envio de lembretes opcionais e personalizáveis, sem pressionar o usuário a realizar suas tarefas.
 
 -**Orientações sobre apoio profissional**: apresentar informações que incentivem o usuário a procurar ajuda profissional quando necessário.
+
+Cuidados Éticos e Limites do Projeto
+Marcador Privacidade dos registros de humor:
+Garantimos total sigilo e proteção dos dados emocionais inseridos. As informações de humor são de uso exclusivo do usuário dentro de sua própria jornada, assegurando um ambiente seguro, confidencial e livre de qualquer julgamento ou exposição externa.
+Marcador Tom das mensagens (sem cobrança, sem promessa de melhora):
+A comunicação adota uma postura acolhedora, horizontal e empática. As mensagens evitam qualquer tom de exigência, cobrança por produtividade emocional ou falsas garantias de cura, respeitando o ritmo e o momento único de cada pessoa.
+Marcador Atuação diante de sofrimento intenso:
+Quando o aplicativo identifica relatos de dor profunda ou sofrimento intenso, a prioridade é o acolhimento seguro e a orientação responsável para que a pessoa busque apoio profissional especializado, oferecendo caminhos claros de suporte humano.
+Marcador Apresentação dos conteúdos (apoio, reflexão e autocuidado):
+Os conteúdos são estruturados para funcionar como uma ferramenta leve de escuta e autoconhecimento. O foco está em promover a reflexão gentil e o autocuidado diário, servindo como um espaço de pausa e apoio no cotidiano, sem caráter clínico ou substituto da terapia.
+
