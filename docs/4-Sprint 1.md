@@ -200,31 +200,31 @@ A proposta identificada a partir dos resultados é tornar as atividades do dia a
 
 O projeto busca tornar as atividades do dia a dia mais fáceis de organizar e iniciar, oferecendo incentivo e apoio para que os usuários desenvolvam e mantenham hábitos positivos, respeitando suas dificuldades e o próprio ritmo. A seguir, cada resultado da pesquisa é relacionado ao objetivo que ele sustenta.
 
-## Facilitar o início de pequenas atividades.
+## 1. Facilitar o início de pequenas atividades.
 
 A pesquisa mostrou que 78,7% dos participantes sentem dificuldade para começar pequenas tarefas ao menos às vezes, e 44,7% a sentem frequentemente ou quase sempre. Os fatores que mais ajudam a começar são ter uma meta simples (44,7%) e dividir a atividade em pequenos passos (36,2%). A necessidade identificada, portanto, é oferecer metas simples e atividades divididas em etapas pequenas.
 
-## Apoiar a criação e a manutenção de hábitos.
+## 2. Apoiar a criação e a manutenção de hábitos.
 
 Acompanhar o próprio progresso foi o recurso mais desejado (66%), seguido do registro de atividades realizadas (53,2%). Entre as 21 pessoas com dificuldade frequente para iniciar tarefas, o acompanhamento do progresso recebeu 16 votos e o registro das atividades, 15. A necessidade identificada é, assim, o acompanhamento do progresso e o registro das atividades.
 
-## Dar direcionamento sobre o que fazer no dia.
+## 3. Dar direcionamento sobre o que fazer no dia.
 
 Entre os participantes, 48,9% querem receber sugestões de atividades simples para o dia e 48,9% querem escolher metas pessoais simples. As atividades mais desejadas são as físicas (citadas por 16 das 36 pessoas que responderam) e as de cuidado pessoal (9 pessoas). A necessidade identificada é oferecer sugestões de atividades e metas personalizáveis, voltadas ao bem-estar e ao autocuidado.
 
-## Oferecer acolhimento sem gerar cobrança.
+## 4. Oferecer acolhimento sem gerar cobrança.
 
 Para 61,7% dos participantes, o estado emocional afeta a rotina. Das 7 pessoas que relataram dificuldade até para pequenas atividades em dias ruins, 6 também têm dificuldade frequente para iniciar tarefas. Há relatos de abandono de higiene, aparência e alimentação, além de falas de culpa e receio, como “não usaria porque sou preguiçosa” e “não conseguirei acompanhar”. A necessidade identificada é uma linguagem sem punição por dias inativos, com mensagens de incentivo (36,2%), um espaço para registrar como a pessoa se sente (36,2%) e um possível “modo dia difícil”, com tarefas mínimas.
 
-## Estimular a continuidade do uso.
+## 5. Estimular a continuidade do uso.
 
 Entre os participantes, 31,9% já usaram aplicativos de bem-estar e abandonaram, e 46,8% nunca tiveram contato real com esse tipo de aplicativo. Os lembretes aparecem em 19 das 35 respostas abertas, mas apenas 14,9% os apontam como o que ajuda a começar uma atividade. Também há pedidos por notificações discretas, personalizáveis (27,7%) e fáceis de pausar (34%). A necessidade identificada é ter lembretes opcionais, discretos e fáceis de silenciar, além de uma interface simples e flexível.
 
-## Considerar a dimensão social.
+## 6. Considerar a dimensão social.
 
 Para 21,3% dos participantes, fazer a atividade com outra pessoa ajuda a começar. Trata-se de um recurso complementar, a ser avaliado depois que o núcleo do aplicativo estiver definido.
 
-## Priorização das necessidades identificadas
+## 7. Priorização das necessidades identificadas
 
 Os critérios usados foram a força da evidência na pesquisa, a relevância para quem mais tem dificuldade de iniciar tarefas e a ligação direta com os objetivos do projeto.
 
@@ -234,6 +234,6 @@ Os critérios usados foram a força da evidência na pesquisa, a relevância par
 
 **Prioridade baixa** (desejáveis, para versões futuras). Nesse grupo estão os conteúdos curtos sobre autocuidado (29,8%) e os exercícios de respiração; a gamificação leve, focada no sentimento de progresso e nunca em punição ou cobrança; a realização de atividades em companhia de outra pessoa (21,3%); e o cruzamento de dados para identificar gatilhos de estresse e emitir alertas, que é complexo e exige cuidado ético, por isso fica para um momento posterior.
 
-## Limitações a considerar
+## 8. Limitações a considerar
 
 A amostra é pequena (47 pessoas) e concentrada em estudantes de Computação, o que limita a generalização dos resultados. A pesquisa não perguntou os motivos do abandono de aplicativos anteriores, então a ligação desse abandono com notificações excessivas ou exigência de constância é apenas uma hipótese. Algumas distribuições da análise original não somam 100%, o que restringe a leitura completa desses dados. Por fim, as hipóteses do grupo (progresso como evidência de avanço, modo dia difícil, ausência de punição) só poderão ser confirmadas com testes no protótipo.
