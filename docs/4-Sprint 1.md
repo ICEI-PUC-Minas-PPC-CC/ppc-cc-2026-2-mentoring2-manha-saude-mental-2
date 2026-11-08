@@ -3,18 +3,25 @@
 A pesquisa contou com 47 pessoas que consentiram em participar e apresentou informações importantes sobre as dificuldades enfrentadas pelas pessoas para realizar atividades do dia a dia, a influência do estado emocional na manutenção da rotina e a experiência com aplicativos de autocuidado e bem-estar. Os resultados permitem compreender quais atividades costumam ser prejudicadas em momentos de dificuldade emocional, quais fatores ajudam as pessoas a iniciar ou retomar tarefas e quais recursos seriam considerados úteis em um aplicativo voltado ao incentivo de hábitos saudáveis.
 
 ## 1. Perfil dos participantes
+
 ![Faixa etária dos participantes](./img/FaixaEtaria.png)
+
 A pesquisa contou com pessoas de diferentes faixas etárias e realidades. A maior concentração está entre participantes de 18 a 24 anos, que representam 36,2% da amostra, seguidos pelo grupo de 41 a 60 anos, correspondente a 29,8%. Os demais participantes estão distribuídos entre as faixas de 31 a 40 anos (17%), 25 a 30 anos (10,6%), 61 anos ou mais (4,3%) e 15 a 17 anos (2,1%).
 
 ![Vinculo com a PUC](./img/Vinculo.png)
+
 Em relação ao vínculo com a PUC Minas, 42,6% dos participantes possuem ligação com a instituição, enquanto 57,4% não possuem. Entre os participantes de 18 a 24 anos, 13 das 17 pessoas possuem vínculo com a PUC Minas. Já entre aqueles de 41 a 60 anos, 13 das 14 pessoas não possuem vínculo com a instituição. 
+
 ![Área de atuação](./img/AreaCursoSetor.png)
+
 Entre os participantes que informaram sua área de atuação, a grande maioria é da área de Computação, principalmente estudantes de Ciência da Computação e Sistemas de Informação.
 
 Esses resultados mostram que a pesquisa alcançou pessoas de diferentes idades e realidades, permitindo observar necessidades variadas. Entretanto, também demonstram a existência de dois grupos bastante distintos na amostra: jovens universitários, principalmente vinculados à PUC Minas, e adultos de outras realidades, majoritariamente sem vínculo com a instituição.
 
 ## 2. Dificuldade para começar pequenas tarefas e impacto na rotina
+
 ![Frequência com que enfrentam dificuldades em pequenas tarefas](./img/DificuldadeEmPequenasTarefas.png)
+
 Um dos resultados mais relevantes da pesquisa foi a frequência com que os participantes enfrentam dificuldades para começar pequenas tarefas do cotidiano. Entre as 47 pessoas, 38,3% afirmaram sentir essa dificuldade frequentemente e 6,4% quase sempre, totalizando 44,7% dos participantes. Quando são incluídas as pessoas que responderam sentir essa dificuldade às vezes, representando 34%, o percentual chega a 78,7%, equivalente a 37 pessoas. Apenas 6,4% afirmaram nunca enfrentar esse tipo de dificuldade.
 
 É importante observar que as porcentagens apresentadas nessa distribuição não completam 100%. Portanto, os dados disponíveis não permitem identificar todas as categorias de resposta ou eventuais respostas não contempladas na análise original.
@@ -22,6 +29,7 @@ Um dos resultados mais relevantes da pesquisa foi a frequência com que os parti
 A dificuldade frequente apresenta diferenças entre as faixas etárias. Entre os participantes de 18 a 24 anos, 11 das 17 pessoas (aproximadamente 65%) relataram sentir dificuldade frequentemente ou quase sempre. Entre aqueles de 31 a 40 anos, foram 5 das 8 pessoas (aproximadamente 63%). Já na faixa de 41 a 60 anos, esse número foi de 3 das 14 pessoas (aproximadamente 22%).
 
 ![Impacto do estado emocional na rotina](./img/Rotina.png)
+
 Além da dificuldade para iniciar tarefas, a pesquisa também mostrou que o estado emocional interfere na rotina. Ao todo, 61,7% dos participantes afirmaram que seu estado emocional afeta suas atividades de alguma maneira. Desse percentual, 31,9% disseram que algumas atividades ficam mais difíceis, embora consigam manter outras; 14,9% relataram dificuldade para manter várias atividades; e outros 14,9% afirmaram ter dificuldade até mesmo para realizar pequenas atividades. Além disso, 14,9% disseram que essa situação varia bastante de um dia para o outro, enquanto apenas 17% conseguem manter a rotina como antes quando não estão se sentindo bem emocionalmente.
 
 Assim como na distribuição anterior, essas categorias não totalizam 100% das respostas. Dessa forma, não é possível determinar, com as informações disponíveis, o que corresponde à parcela restante.
@@ -47,7 +55,9 @@ Apesar dos relatos de dificuldades, também apareceram estratégias positivas ut
 Essas respostas mostram que o impacto do mal-estar emocional não se limita à produtividade ou à organização das tarefas. Ele também pode atingir cuidados básicos, alimentação, higiene, aparência, descanso e relações sociais. Portanto, a dificuldade enfrentada por algumas pessoas pode ultrapassar a simples falta de organização, chegando a comprometer atividades essenciais do cotidiano.
 
 ## 4. Experiência prévia com aplicativos de autocuidado e bem-estar
+
 ![Experiências anteriores com aplicativos de autocuidado](./img/JaUtilizouAlgumApp.png)
+
 A pesquisa também investigou a experiência dos participantes com aplicativos de autocuidado e bem-estar. Os resultados mostram que aproximadamente 21,3% utilizam atualmente esse tipo de recurso. Na análise original, esse percentual corresponde a dez pessoas (21,2%), enquanto a divisão por frequência de uso apresenta 19,1% de usuários ocasionais e 2,1% de usuários frequentes. A pequena diferença entre os percentuais decorre do arredondamento dos valores apresentados.
 
 Por outro lado, 31,9% afirmaram que já utilizaram aplicativos desse tipo, mas deixaram de usar. Outros 27,7% conhecem esses recursos, mas nunca utilizaram, enquanto 19,1% sequer conhecem esse tipo de aplicativo.
@@ -68,7 +78,9 @@ As respostas abertas também revelaram certa insegurança antecipada em relaçã
 Esses resultados indicam que um dos desafios do projeto será desenvolver um aplicativo que seja interessante, acessível e fácil de utilizar, incentivando as pessoas a continuarem usando a ferramenta. Também apontam para a importância de considerar que algumas pessoas podem ter receio de não conseguir acompanhar as atividades propostas ou manter a constância necessária para utilizar um aplicativo desse tipo.
 
 ## 5. O que ajuda as pessoas a começar ou retomar uma atividade
+
 ![O que ajuda no retorno/início de uma atividade](./img/OqueAjuda.png)
+
 A pesquisa investigou quais fatores ajudam os participantes a iniciar ou retomar uma atividade que desejam realizar. Os resultados mostram que reduzir a sensação de dificuldade e tornar o início da tarefa mais simples são aspectos bastante valorizados.
 
 Os fatores mais citados foram:
@@ -105,7 +117,9 @@ Além disso, foram citados hobbies, leitura, atividades sociais, terapia, medita
 Essas respostas demonstram que os participantes possuem diferentes interesses e necessidades em relação à construção de hábitos. As atividades desejadas envolvem tanto a saúde física quanto o autocuidado, o lazer, a vida social e o descanso.
 
 ## 7. Recursos mais desejados para um aplicativo
+
 ![Recursos indicados para o aplicativo](./img/RecursosParaOApp.png)
+
 A pesquisa investigou quais funcionalidades os participantes considerariam mais úteis em um aplicativo de autocuidado e bem-estar. Os resultados mostram uma preferência por recursos que permitam acompanhar a própria evolução, registrar atividades, estabelecer objetivos simples e receber sugestões e lembretes.
 
 De acordo com os resultados gerais, os recursos mais escolhidos foram:
@@ -200,7 +214,7 @@ Assim, a pesquisa indica que um aplicativo voltado ao apoio na realização de a
 
 A proposta identificada a partir dos resultados é tornar as atividades do dia a dia mais fáceis de organizar e iniciar, oferecendo incentivo e apoio para que os usuários desenvolvam e mantenham hábitos positivos, respeitando suas dificuldades e o próprio ritmo.
 
-## Relação entre os resultados e os objetivos do projeto
+# Relação entre os resultados e os objetivos do projeto
 
 O projeto busca tornar as atividades do dia a dia mais fáceis de organizar e iniciar, oferecendo incentivo e apoio para que os usuários desenvolvam e mantenham hábitos positivos, respeitando suas dificuldades e o próprio ritmo. A seguir, cada resultado da pesquisa é relacionado ao objetivo que ele sustenta.
 
@@ -241,3 +255,19 @@ Os critérios usados foram a força da evidência na pesquisa, a relevância par
 ## 8. Limitações a considerar
 
 A amostra é pequena (47 pessoas) e concentrada em estudantes de Computação, o que limita a generalização dos resultados. A pesquisa não perguntou os motivos do abandono de aplicativos anteriores, então a ligação desse abandono com notificações excessivas ou exigência de constância é apenas uma hipótese. Algumas distribuições da análise original não somam 100%, o que restringe a leitura completa desses dados. Por fim, as hipóteses do grupo (progresso como evidência de avanço, modo dia difícil, ausência de punição) só poderão ser confirmadas com testes no protótipo.
+
+# Funcionalidades e Conteúdos da Solução
+
+| **Funcionalidade**                       | **Descrição**                                                                                                                                                                        | **Origem**                                                                      |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
+| Escolha de meta pessoal                  | A pessoa escolhe 1 meta do dia entre opções pequenas, ou cria a sua, sem horário obrigatório.                                                                                        | Pesquisa(44,7%), Objetivo 1                                                     |
+| Atividade em pequenos passos             | Cada atividade abre em 2 a 4 etapas, a pessoa pode parar em qualquer etapa e isso conta como progresso.                                                                              | Pesquisa(36,2%)                                                                 |
+| Registro diário de atividades realizadas | Marcação simples com um toque, incluindo etapas parciais.                                                                                                                            | Pesquisa(53,2%), Objetivo 2                                                     |
+| Linha do tempo de conquistas             | Histórico visual que destaca o que foi feito, dias vazios aparecem neutros, sem sequência quebrada nem alerta de fracasso.                                                           | Pesquisa(66%), Objetivo 2                                                       |
+| Sugestão do dia                          | Uma ou poucas sugestões simples, para evitar excesso de escolha.                                                                                                                     | Pesquisa(48,9%), Objetivo 1                                                     |
+| Categorias de interesse                  | A pessoa pode escolher categorias como: atividade física, cuidado pessoal, vida social, lazer, etc..                                                                                 | Pesquisa(16 pessoas citaram atividades físicas, 9 citaram cuidado pesoal)       |
+| Espaço para registro de sentimentos      | Check-in de humor em 1 toque(com emojis) e campo de texto para anotação livre opcional.                                                                                              | Pesquisa(36,2%), Objetivo 2                                                     |
+| Sugestões conforme o humor               | Se a pessoa registrou como está se sentindo, as sugestões se adaptam (mais leves em dias difíceis).                                                                                  | Pesquisa(61,7% dos participantes relatam que o estado emocional afeta a rotina) |
+| Mensagens de incentivo                   | Mensagem de reconhecimento após qualquer etapa concluída, por menor que seja, mensagens de boas-vindas e de retorno, e frases inspiradas em músicas e filosofias.                    | Pesquisa(36,2%)                                                                 |
+| Lembretes gentis, opcionais e discretos  | Notificações discretas e personalizáveis, com pausa em um toque, além de conter texto convidativo, nunca cobrando.                                                                   | Pesquisa(34%)                                                                   |
+| Orientações sobre apoio profissional     | O aplicativo não deve substituir avaliação profissional, por isso, deve informar a pessoa sobre situações em que o sofrimento exige acompanhamento de profissionais de saúde mental. | Objetivo 3                                                                      |
