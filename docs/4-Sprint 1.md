@@ -271,3 +271,26 @@ A amostra é pequena (47 pessoas) e concentrada em estudantes de Computação, o
 | Mensagens de incentivo                   | Mensagem de reconhecimento após qualquer etapa concluída, por menor que seja, mensagens de boas-vindas e de retorno, e frases inspiradas em músicas e filosofias.                    | Pesquisa(36,2%)                                                                 |
 | Lembretes gentis, opcionais e discretos  | Notificações discretas e personalizáveis, com pausa em um toque, além de conter texto convidativo, nunca cobrando.                                                                   | Pesquisa(34%)                                                                   |
 | Orientações sobre apoio profissional     | O aplicativo não deve substituir avaliação profissional, por isso, deve informar a pessoa sobre situações em que o sofrimento exige acompanhamento de profissionais de saúde mental. | Objetivo 3                                                                      |
+# Definição dos limites da solução
+
+## 1.O que o aplicativo pretende fazer
+
+-Metas pessoais simples: permitir que o usuário escolha uma pequena meta para o dia, sem precisar definir um horário específico para realizá-la.
+
+-Divisão de atividades em etapas: ajudar o usuário a dividir tarefas maiores em passos menores, facilitando o início e a realização das atividades.
+
+-Registro de atividades realizadas: permitir que o usuário registre o que conseguiu fazer, mesmo que tenha concluído apenas parte da tarefa.
+
+-Histórico de conquistas: mostrar as atividades realizadas ao longo do tempo, valorizando o progresso sem cobrar os dias em que o usuário ficou inativo.
+
+-Sugestões de atividades: apresentar ideias simples para o dia, relacionadas a diferentes áreas, como atividade física, cuidado pessoal, vida social e lazer.
+
+-Registro de sentimentos: oferecer um espaço para o usuário registrar como está se sentindo, utilizando emojis e anotações opcionais.
+
+-Sugestões relacionadas ao humor: apresentar atividades mais leves ou adequadas ao sentimento registrado, respeitando o momento de cada usuário.
+
+-Mensagens de incentivo: oferecer mensagens positivas e acolhedoras para incentivar o usuário durante suas atividades.
+
+-Lembretes gentis: permitir o envio de lembretes opcionais e personalizáveis, sem pressionar o usuário a realizar suas tarefas.
+
+-Orientações sobre apoio profissional: apresentar informações que incentivem o usuário a procurar ajuda profissional quando necessário.
