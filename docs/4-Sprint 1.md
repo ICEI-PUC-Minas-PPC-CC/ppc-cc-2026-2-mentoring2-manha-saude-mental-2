@@ -289,8 +289,26 @@ A amostra é pequena (47 pessoas) e concentrada em estudantes de Computação, o
 
 -Sugestões relacionadas ao humor: apresentar atividades mais leves ou adequadas ao sentimento registrado, respeitando o momento de cada usuário.
 
--Mensagens de incentivo: oferecer mensagens positivas e acolhedoras para incentivar o usuário durante suas atividades.
+## 2. O que o aplicativo não pretende oferecer
 
--Lembretes gentis: permitir o envio de lembretes opcionais e personalizáveis, sem pressionar o usuário a realizar suas tarefas.
+- **Diagnósticos psicológicos:** o aplicativo não terá a função de identificar ou diagnosticar transtornos e problemas relacionados à saúde mental.
 
--Orientações sobre apoio profissional: apresentar informações que incentivem o usuário a procurar ajuda profissional quando necessário.
+- **Avaliação do estado mental:** não irá analisar os registros do usuário para determinar sua condição emocional ou psicológica.
+
+- **Garantia de resultados emocionais:** não promete que o uso das funcionalidades trará mudanças positivas na saúde mental ou no bem-estar emocional.
+
+- **Substituição de profissionais:** não será utilizado como alternativa a consultas, terapias ou acompanhamento com profissionais da área da saúde.
+
+- **Cobranças por atividades não realizadas:** o aplicativo não irá repreender ou penalizar o usuário caso ele não consiga cumprir suas metas ou atividades.
+
+- **Rotina rígida de tarefas:** não exigirá que as atividades sejam feitas em horários definidos ou seguindo uma programação obrigatória.
+
+- **Exigência de produtividade constante:** não cobrará resultados diários nem exigirá que o usuário mantenha uma frequência contínua de atividades.
+
+- **Análise clínica de sentimentos:** os registros emocionais não serão utilizados para identificar transtornos, determinar condições psicológicas ou realizar avaliações clínicas.
+
+-**Mensagens de incentivo:** oferecer mensagens positivas e acolhedoras para incentivar o usuário durante suas atividades.
+
+-**Lembretes gentis**: permitir o envio de lembretes opcionais e personalizáveis, sem pressionar o usuário a realizar suas tarefas.
+
+-**Orientações sobre apoio profissional**: apresentar informações que incentivem o usuário a procurar ajuda profissional quando necessário.
