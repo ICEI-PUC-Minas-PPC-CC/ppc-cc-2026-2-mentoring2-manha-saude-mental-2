@@ -8,7 +8,7 @@ A pesquisa contou com 47 pessoas que consentiram em participar e apresentou info
 
 A pesquisa contou com pessoas de diferentes faixas etárias e realidades. A maior concentração está entre participantes de 18 a 24 anos, que representam 36,2% da amostra, seguidos pelo grupo de 41 a 60 anos, correspondente a 29,8%. Os demais participantes estão distribuídos entre as faixas de 31 a 40 anos (17%), 25 a 30 anos (10,6%), 61 anos ou mais (4,3%) e 15 a 17 anos (2,1%).
 
-![Vinculo com a PUC](./img/Vinculo.png)
+![Vínculo com a PUC](./img/Vinculo.png)
 
 Em relação ao vínculo com a PUC Minas, 42,6% dos participantes possuem ligação com a instituição, enquanto 57,4% não possuem. Entre os participantes de 18 a 24 anos, 13 das 17 pessoas possuem vínculo com a PUC Minas. Já entre aqueles de 41 a 60 anos, 13 das 14 pessoas não possuem vínculo com a instituição. 
 
@@ -24,17 +24,13 @@ Esses resultados mostram que a pesquisa alcançou pessoas de diferentes idades e
 
 Um dos resultados mais relevantes da pesquisa foi a frequência com que os participantes enfrentam dificuldades para começar pequenas tarefas do cotidiano. Entre as 47 pessoas, 38,3% afirmaram sentir essa dificuldade frequentemente e 6,4% quase sempre, totalizando 44,7% dos participantes. Quando são incluídas as pessoas que responderam sentir essa dificuldade às vezes, representando 34%, o percentual chega a 78,7%, equivalente a 37 pessoas. Apenas 6,4% afirmaram nunca enfrentar esse tipo de dificuldade.
 
-É importante observar que as porcentagens apresentadas nessa distribuição não completam 100%. Portanto, os dados disponíveis não permitem identificar todas as categorias de resposta ou eventuais respostas não contempladas na análise original.
-
 A dificuldade frequente apresenta diferenças entre as faixas etárias. Entre os participantes de 18 a 24 anos, 11 das 17 pessoas (aproximadamente 65%) relataram sentir dificuldade frequentemente ou quase sempre. Entre aqueles de 31 a 40 anos, foram 5 das 8 pessoas (aproximadamente 63%). Já na faixa de 41 a 60 anos, esse número foi de 3 das 14 pessoas (aproximadamente 22%).
 
 ![Impacto do estado emocional na rotina](./img/Rotina.png)
 
 Além da dificuldade para iniciar tarefas, a pesquisa também mostrou que o estado emocional interfere na rotina. Ao todo, 61,7% dos participantes afirmaram que seu estado emocional afeta suas atividades de alguma maneira. Desse percentual, 31,9% disseram que algumas atividades ficam mais difíceis, embora consigam manter outras; 14,9% relataram dificuldade para manter várias atividades; e outros 14,9% afirmaram ter dificuldade até mesmo para realizar pequenas atividades. Além disso, 14,9% disseram que essa situação varia bastante de um dia para o outro, enquanto apenas 17% conseguem manter a rotina como antes quando não estão se sentindo bem emocionalmente.
 
-Assim como na distribuição anterior, essas categorias não totalizam 100% das respostas. Dessa forma, não é possível determinar, com as informações disponíveis, o que corresponde à parcela restante.
-
-Um dado que merece destaque é que, entre as sete pessoas que relataram dificuldade até para realizar pequenas atividades em momentos de mal-estar emocional, seis também afirmaram sentir dificuldade para começar tarefas frequentemente ou quase sempre. Isso demonstra uma relação entre a dificuldade de iniciar tarefas e o impacto do estado emocional na manutenção das atividades cotidianas.
+Um dado que merece destaque é que, entre as 7 pessoas que relataram dificuldade até para realizar pequenas atividades em momentos de mal-estar emocional, 6 também afirmaram sentir dificuldade para começar tarefas frequentemente ou quase sempre. Isso demonstra uma relação entre a dificuldade de iniciar tarefas e o impacto do estado emocional na manutenção das atividades cotidianas.
 
 De maneira geral, os resultados mostram que dificuldades emocionais podem interferir diretamente até mesmo nas atividades mais simples do cotidiano. Em momentos difíceis, tarefas que normalmente seriam realizadas sem grandes obstáculos podem se tornar complicadas, afetando a manutenção da rotina e dos cuidados pessoais.
 
@@ -42,7 +38,7 @@ De maneira geral, os resultados mostram que dificuldades emocionais podem interf
 
 As respostas abertas permitiram compreender melhor como a queda no bem-estar emocional se manifesta na vida dos participantes. Os relatos mostram diferentes níveis de dificuldade e perda da rotina, principalmente relacionados à higiene pessoal, à aparência, à alimentação, às necessidades básicas e à disposição para realizar atividades.
 
-Entre as 47 pessoas, dez mencionaram a redução do autocuidado em geral, cinco citaram o descuido com a aparência e a higiene pessoal e outras cinco mencionaram alterações na alimentação.
+Entre as 47 pessoas, 10 mencionaram a redução do autocuidado em geral, 5 citaram o descuido com a aparência e a higiene pessoal e outras 5 mencionaram alterações na alimentação.
 
 Em relação à higiene e à aparência pessoal, apareceram relatos de falta de motivação até para pensar na roupa que usar ou lavar o cabelo, diminuição da frequência com que a pessoa se barbeia e utiliza fio dental, além de um desleixo geral com a própria aparência. Esses relatos demonstram que, em momentos de dificuldade emocional, os cuidados pessoais podem estar entre os aspectos da rotina prejudicados.
 
@@ -58,7 +54,7 @@ Essas respostas mostram que o impacto do mal-estar emocional não se limita à p
 
 ![Experiências anteriores com aplicativos de autocuidado](./img/JaUtilizouAlgumApp.png)
 
-A pesquisa também investigou a experiência dos participantes com aplicativos de autocuidado e bem-estar. Os resultados mostram que aproximadamente 21,3% utilizam atualmente esse tipo de recurso. Na análise original, esse percentual corresponde a dez pessoas (21,2%), enquanto a divisão por frequência de uso apresenta 19,1% de usuários ocasionais e 2,1% de usuários frequentes. A pequena diferença entre os percentuais decorre do arredondamento dos valores apresentados.
+A pesquisa também investigou a experiência dos participantes com aplicativos de autocuidado e bem-estar. Os resultados mostram que aproximadamente 19,1% utilizam atualmente esse tipo de recurso ocasionalmente, e apenas 1 pessoa (2,1%) utiliza com frequência. Na análise original, esse percentual corresponde a 10 pessoas (21,2%).
 
 Por outro lado, 31,9% afirmaram que já utilizaram aplicativos desse tipo, mas deixaram de usar. Outros 27,7% conhecem esses recursos, mas nunca utilizaram, enquanto 19,1% sequer conhecem esse tipo de aplicativo.
 
@@ -196,8 +192,6 @@ Outra interpretação está relacionada ao alto interesse pelo acompanhamento do
 
 Os relatos de abandono de cuidados básicos em dias ruins também sugerem a possibilidade de um recurso específico para esses momentos, como um "modo dia difícil", com tarefas mínimas e uma abordagem acolhedora. Essa proposta estaria relacionada às situações em que os participantes relatam dificuldades até mesmo para sair da cama, alimentar-se ou realizar atividades básicas de higiene.
 
-Outra hipótese envolve a diferença entre o interesse por lembretes e a percepção de sua eficácia. Embora os lembretes tenham sido mencionados em 19 das 35 respostas abertas, apenas 14,9% dos participantes os apontaram como algo que efetivamente ajuda a começar uma atividade. Isso pode indicar que as pessoas associam aplicativos de autocuidado a lembretes por hábito, e não necessariamente porque consideram que eles funcionam de fato.
-
 Por fim, parte das respostas mais céticas, como "não conseguirei acompanhar" e "não seria funcional para mim", pode estar relacionada à própria dificuldade de iniciar tarefas, e não necessariamente à falta de interesse na proposta do aplicativo.
 
 Também existe a interpretação de que os rastreadores de hábitos tradicionais podem despertar o medo de falhar em pessoas que já enfrentam dificuldades para manter uma rotina. Por isso, a interface deveria transmitir explicitamente que não existe punição por dias inativos, evitando que a ausência de atividades seja tratada como um fracasso.
@@ -246,50 +240,56 @@ Para 21,3% dos participantes, fazer a atividade com outra pessoa ajuda a começa
 
 Os critérios usados foram a força da evidência na pesquisa, a relevância para quem mais tem dificuldade de iniciar tarefas e a ligação direta com os objetivos do projeto.
 
-**Prioridade alta** (essenciais na primeira versão). Em primeiro lugar estão as metas simples e a divisão em pequenos passos, que são os principais facilitadores do início de tarefas e atacam diretamente o problema central. Em seguida vêm o acompanhamento do progresso e o registro de atividades, recursos mais votados, inclusive pelo público com mais dificuldade para iniciar tarefas. Também entram nesse grupo as sugestões de atividades simples para o dia, que têm 48,9% de interesse e reduzem a dificuldade de decidir o que fazer. Por fim, a linguagem acolhedora, sem punição por dias inativos, responde aos relatos de culpa e receio e não depende de uma funcionalidade específica, pois atravessa todo o aplicativo.
+**Prioridade alta**: Em primeiro lugar estão as metas simples e a divisão em pequenos passos, que são os principais facilitadores do início de tarefas e atacam diretamente o problema central. Em seguida vêm o acompanhamento do progresso e o registro de atividades, recursos mais votados, inclusive pelo público com mais dificuldade para iniciar tarefas. Também entram nesse grupo as sugestões de atividades simples para o dia, que têm 48,9% de interesse e reduzem a dificuldade de decidir o que fazer. Por fim, a linguagem acolhedora, sem punição por dias inativos, responde aos relatos de culpa e receio e não depende de uma funcionalidade específica, pois atravessa todo o aplicativo.
 
-**Prioridade média** (importantes, construídas sobre o núcleo). Os lembretes gentis, opcionais, personalizáveis e fáceis de pausar têm interesse de 46,8%, mas a eficácia percebida é baixa (14,9%) e existe o risco de abandono por excesso de notificações; por isso, devem ser um recurso configurável, e não o eixo do aplicativo. As mensagens de incentivo (36,2%) apoiam o objetivo de acolhimento. O registro de como a pessoa está se sentindo (36,2%) permite relacionar rotina e estado emocional. O “modo dia difícil”, com tarefas mínimas, é uma hipótese do grupo, apoiada pelos relatos de dificuldade com higiene, alimentação e até para sair da cama, e precisa ser validada no protótipo.
+**Prioridade média**: Os lembretes gentis, opcionais, personalizáveis e fáceis de pausar têm interesse de 46,8%, mas a eficácia percebida é baixa (14,9%) e existe o risco de abandono por excesso de notificações; por isso, devem ser um recurso configurável, e não o eixo do aplicativo. As mensagens de incentivo (36,2%) apoiam o objetivo de acolhimento. O registro de como a pessoa está se sentindo (36,2%) permite relacionar rotina e estado emocional. O “modo dia difícil”, com tarefas mínimas, é uma hipótese do grupo, apoiada pelos relatos de dificuldade com higiene, alimentação e até para sair da cama, e precisa ser validada no protótipo.
 
-**Prioridade baixa** (desejáveis, para versões futuras). Nesse grupo estão os conteúdos curtos sobre autocuidado (29,8%) e os exercícios de respiração; a gamificação leve, focada no sentimento de progresso e nunca em punição ou cobrança; a realização de atividades em companhia de outra pessoa (21,3%); e o cruzamento de dados para identificar gatilhos de estresse e emitir alertas, que é complexo e exige cuidado ético, por isso fica para um momento posterior.
+**Prioridade baixa**: Nesse grupo estão os conteúdos curtos sobre autocuidado (29,8%) e os exercícios de respiração; a gamificação leve, focada no sentimento de progresso e nunca em punição ou cobrança; a realização de atividades em companhia de outra pessoa (21,3%); e o cruzamento de dados para identificar gatilhos de estresse e emitir alertas, que é complexo e exige cuidado ético.
 
 ## 8. Limitações a considerar
 
-A amostra é pequena (47 pessoas) e concentrada em estudantes de Computação, o que limita a generalização dos resultados. A pesquisa não perguntou os motivos do abandono de aplicativos anteriores, então a ligação desse abandono com notificações excessivas ou exigência de constância é apenas uma hipótese. Algumas distribuições da análise original não somam 100%, o que restringe a leitura completa desses dados. Por fim, as hipóteses do grupo (progresso como evidência de avanço, modo dia difícil, ausência de punição) só poderão ser confirmadas com testes no protótipo.
+A amostra é pequena (47 pessoas) e concentrada em estudantes de Computação, o que limita a generalização dos resultados. A pesquisa não perguntou os motivos do abandono de aplicativos anteriores, então a ligação desse abandono com notificações excessivas ou exigência de constância é apenas uma hipótese. Algumas distribuições da análise original não somam 100%, o que restringe a leitura completa desses dados. Por fim, as hipóteses do grupo (progresso como evidência de avanço, modo dia difícil, ausência de punição) só poderão ser confirmadas com testes em um protótipo.
 
 # Funcionalidades e Conteúdos da Solução
 
 | **Funcionalidade**                       | **Descrição**                                                                                                                                                                        | **Origem**                                                                      |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| Escolha de meta pessoal                  | A pessoa escolhe 1 meta do dia entre opções pequenas, ou cria a sua, sem horário obrigatório.                                                                                        | Pesquisa(44,7%), Objetivo 1                                                     |
-| Atividade em pequenos passos             | Cada atividade abre em 2 a 4 etapas, a pessoa pode parar em qualquer etapa e isso conta como progresso.                                                                              | Pesquisa(36,2%)                                                                 |
-| Registro diário de atividades realizadas | Marcação simples com um toque, incluindo etapas parciais.                                                                                                                            | Pesquisa(53,2%), Objetivo 2                                                     |
-| Linha do tempo de conquistas             | Histórico visual que destaca o que foi feito, dias vazios aparecem neutros, sem sequência quebrada nem alerta de fracasso.                                                           | Pesquisa(66%), Objetivo 2                                                       |
-| Sugestão do dia                          | Uma ou poucas sugestões simples, para evitar excesso de escolha.                                                                                                                     | Pesquisa(48,9%), Objetivo 1                                                     |
-| Categorias de interesse                  | A pessoa pode escolher categorias como: atividade física, cuidado pessoal, vida social, lazer, etc..                                                                                 | Pesquisa(16 pessoas citaram atividades físicas, 9 citaram cuidado pesoal)       |
-| Espaço para registro de sentimentos      | Check-in de humor em 1 toque(com emojis) e campo de texto para anotação livre opcional.                                                                                              | Pesquisa(36,2%), Objetivo 2                                                     |
-| Sugestões conforme o humor               | Se a pessoa registrou como está se sentindo, as sugestões se adaptam (mais leves em dias difíceis).                                                                                  | Pesquisa(61,7% dos participantes relatam que o estado emocional afeta a rotina) |
-| Mensagens de incentivo                   | Mensagem de reconhecimento após qualquer etapa concluída, por menor que seja, mensagens de boas-vindas e de retorno, e frases inspiradas em músicas e filosofias.                    | Pesquisa(36,2%)                                                                 |
-| Lembretes gentis, opcionais e discretos  | Notificações discretas e personalizáveis, com pausa em um toque, além de conter texto convidativo, nunca cobrando.                                                                   | Pesquisa(34%)                                                                   |
+| Escolha de meta pessoal                  | A pessoa escolhe 1 meta do dia entre opções pequenas, ou cria a sua, sem horário obrigatório.                                                                                        | Pesquisa (44,7%), Objetivo 1                                                     |
+| Atividade em pequenos passos             | Cada atividade abre em 2 a 4 etapas, a pessoa pode parar em qualquer etapa e isso conta como progresso.                                                                              | Pesquisa (36,2%)                                                                 |
+| Registro diário de atividades realizadas | Marcação simples com um toque, incluindo etapas parciais.                                                                                                                            | Pesquisa (53,2%), Objetivo 2                                                     |
+| Linha do tempo de conquistas             | Histórico visual que destaca o que foi feito, dias vazios aparecem neutros, sem sequência quebrada nem alerta de fracasso.                                                           | Pesquisa (66%), Objetivo 2                                                       |
+| Sugestão do dia                          | Uma ou poucas sugestões simples, para evitar excesso de escolha.                                                                                                                     | Pesquisa (48,9%), Objetivo 1                                                     |
+| Categorias de interesse                  | A pessoa pode escolher categorias como: atividade física, cuidado pessoal, vida social, lazer, etc.                                                                                 | Pesquisa (16 pessoas citaram atividades físicas, 9 citaram cuidado pessoal)       |
+| Espaço para registro de sentimentos      | Check-in de humor em um toque (com emojis) e campo de texto para anotação livre opcional.                                                                                              | Pesquisa (36,2%), Objetivo 2                                                     |
+| Sugestões conforme o humor               | Se a pessoa registrou como está se sentindo, as sugestões se adaptam (mais leves em dias difíceis).                                                                                  | Pesquisa (61,7% dos participantes relatam que o estado emocional afeta a rotina) |
+| Mensagens de incentivo                   | Mensagem de reconhecimento após qualquer etapa concluída, por menor que seja, mensagens de boas-vindas e de retorno, e frases inspiradas em músicas e filosofias.                    | Pesquisa (36,2%)                                                                 |
+| Lembretes gentis, opcionais e discretos  | Notificações discretas e personalizáveis, com pausa em um toque, além de conter texto convidativo, nunca cobrando.                                                                   | Pesquisa (34%)                                                                   |
 | Orientações sobre apoio profissional     | O aplicativo não deve substituir avaliação profissional, por isso, deve informar a pessoa sobre situações em que o sofrimento exige acompanhamento de profissionais de saúde mental. | Objetivo 3                                                                      |
 # Definição dos limites da solução
 
-## 1.O que o aplicativo pretende fazer
+## 1. O que o aplicativo pretende fazer
 
--Metas pessoais simples: permitir que o usuário escolha uma pequena meta para o dia, sem precisar definir um horário específico para realizá-la.
+- **Metas pessoais simples:** permitir que o usuário escolha uma pequena meta para o dia, sem precisar definir um horário específico para realizá-la.
 
--Divisão de atividades em etapas: ajudar o usuário a dividir tarefas maiores em passos menores, facilitando o início e a realização das atividades.
+- **Divisão de atividades em etapas:** ajudar o usuário a dividir tarefas maiores em passos menores, facilitando o início e a realização das atividades.
 
--Registro de atividades realizadas: permitir que o usuário registre o que conseguiu fazer, mesmo que tenha concluído apenas parte da tarefa.
+- **Registro de atividades realizadas:** permitir que o usuário registre o que conseguiu fazer, mesmo que tenha concluído apenas parte da tarefa.
 
--Histórico de conquistas: mostrar as atividades realizadas ao longo do tempo, valorizando o progresso sem cobrar os dias em que o usuário ficou inativo.
+- **Histórico de conquistas:** mostrar as atividades realizadas ao longo do tempo, valorizando o progresso sem cobrar os dias em que o usuário ficou inativo.
 
--Sugestões de atividades: apresentar ideias simples para o dia, relacionadas a diferentes áreas, como atividade física, cuidado pessoal, vida social e lazer.
+- **Sugestões de atividades:** apresentar ideias simples para o dia, relacionadas a diferentes áreas, como atividade física, cuidado pessoal, vida social e lazer.
 
--Registro de sentimentos: oferecer um espaço para o usuário registrar como está se sentindo, utilizando emojis e anotações opcionais.
+- **Registro de sentimentos:** oferecer um espaço para o usuário registrar como está se sentindo, utilizando emojis e anotações opcionais.
 
--Sugestões relacionadas ao humor: apresentar atividades mais leves ou adequadas ao sentimento registrado, respeitando o momento de cada usuário.
+- **Mensagens de incentivo:** oferecer mensagens positivas e acolhedoras para incentivar o usuário durante suas atividades.
 
-## 2. O que o aplicativo não pretende oferecer
+- **Lembretes gentis:** permitir o envio de lembretes opcionais e personalizáveis, sem pressionar o usuário a realizar suas tarefas.
+
+- **Orientações sobre apoio profissional:** apresentar informações que incentivem o usuário a procurar ajuda profissional quando necessário.
+
+- **Sugestões relacionadas ao humor:** apresentar atividades mais leves ou adequadas ao sentimento registrado, respeitando o momento de cada usuário.
+
+## 2. O que o aplicativo não pretende fazer
 
 - **Diagnósticos psicológicos:** o aplicativo não terá a função de identificar ou diagnosticar transtornos e problemas relacionados à saúde mental.
 
@@ -305,21 +305,12 @@ A amostra é pequena (47 pessoas) e concentrada em estudantes de Computação, o
 
 - **Exigência de produtividade constante:** não cobrará resultados diários nem exigirá que o usuário mantenha uma frequência contínua de atividades.
 
-- **Análise clínica de sentimentos:** os registros emocionais não serão utilizados para identificar transtornos, determinar condições psicológicas ou realizar avaliações clínicas.
+# Cuidados Éticos e Limites do Projeto
 
--**Mensagens de incentivo:** oferecer mensagens positivas e acolhedoras para incentivar o usuário durante suas atividades.
+- **Privacidade dos registros de humor:** será garantido total sigilo e proteção dos dados emocionais inseridos. As informações de humor são de uso exclusivo do usuário dentro de sua própria jornada, assegurando um ambiente seguro, confidencial e livre de qualquer julgamento ou exposição externa.
 
--**Lembretes gentis**: permitir o envio de lembretes opcionais e personalizáveis, sem pressionar o usuário a realizar suas tarefas.
+- **Tom das mensagens (sem cobrança, sem promessa de melhora):** a comunicação adota uma postura acolhedora, horizontal e empática. As mensagens evitam qualquer tom de exigência, cobrança por produtividade emocional ou falsas garantias de cura, respeitando o ritmo e o momento único de cada pessoa.
 
--**Orientações sobre apoio profissional**: apresentar informações que incentivem o usuário a procurar ajuda profissional quando necessário.
+- **Atuação diante de sofrimento intenso:** quando o aplicativo identifica relatos de dor profunda ou sofrimento intenso, a prioridade é o acolhimento seguro e a orientação responsável para que a pessoa busque apoio profissional especializado, oferecendo caminhos claros de suporte humano.
 
-Cuidados Éticos e Limites do Projeto
-Marcador Privacidade dos registros de humor:
-Garantimos total sigilo e proteção dos dados emocionais inseridos. As informações de humor são de uso exclusivo do usuário dentro de sua própria jornada, assegurando um ambiente seguro, confidencial e livre de qualquer julgamento ou exposição externa.
-Marcador Tom das mensagens (sem cobrança, sem promessa de melhora):
-A comunicação adota uma postura acolhedora, horizontal e empática. As mensagens evitam qualquer tom de exigência, cobrança por produtividade emocional ou falsas garantias de cura, respeitando o ritmo e o momento único de cada pessoa.
-Marcador Atuação diante de sofrimento intenso:
-Quando o aplicativo identifica relatos de dor profunda ou sofrimento intenso, a prioridade é o acolhimento seguro e a orientação responsável para que a pessoa busque apoio profissional especializado, oferecendo caminhos claros de suporte humano.
-Marcador Apresentação dos conteúdos (apoio, reflexão e autocuidado):
-Os conteúdos são estruturados para funcionar como uma ferramenta leve de escuta e autoconhecimento. O foco está em promover a reflexão gentil e o autocuidado diário, servindo como um espaço de pausa e apoio no cotidiano, sem caráter clínico ou substituto da terapia.
-
+- **Apresentação dos conteúdos (apoio, reflexão e autocuidado):** os conteúdos são estruturados para funcionar como uma ferramenta leve de escuta e autoconhecimento. O foco está em promover a reflexão gentil e o autocuidado diário, servindo como um espaço de pausa e apoio no cotidiano, sem caráter clínico ou substituto da terapia.
